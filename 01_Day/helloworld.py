@@ -1,6 +1,14 @@
 # Introduction
 # Day 1 - 30DaysOfPython Challenge
 
+# This is the first comment
+# This is the second comment
+# Python is eating the world
+"""This is multiline comment
+multiline comment takes multiple lines.
+python is eating the world
+"""
+
 print(2 + 3)   # addition(+)
 print(3 - 1)   # subtraction(-)
 print(2 * 3)   # multiplication(*)
